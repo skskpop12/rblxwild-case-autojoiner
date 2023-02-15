@@ -1,6 +1,6 @@
 function lord() {
 let socket = new WebSocket("wss://rblxwild.com/socket.io/?EIO=4&transport=websocket");
-authtoken = "AuthToken Here"
+authtoken = "2fadc5786b87700a1271beecafd56f52ad81ff7d5a69e46e4632a0476c61150e46ea3fa0e4d733bd816262814ad9fbb7fb1f6598458f63b6b581dcfa58216f71"
 socket.onopen = function(e) {
 
 };
